@@ -1,3 +1,4 @@
+=begin
 require 'rails_helper'
 
 describe MoviesController, :type => :controller do
@@ -22,3 +23,4 @@ describe MoviesController, :type => :controller do
     end
 
 end 
+=end
